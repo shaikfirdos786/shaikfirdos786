@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @shaikfirdos786
 - 👀 I’m interested in Ethical Hacking
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning Python and Web Development
 - 💞️ I’m looking to collaborate on Github
 - 📫 How to reach me shaikfirdos786
 
