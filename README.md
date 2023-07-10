@@ -1,8 +1,5 @@
-- 👋 Hi, I’m @shaikfirdos786
-- 👀 I’m interested in Ethical Hacking
-- 🌱 I’m currently learning Python and Web Development
-- 💞️ I’m looking to collaborate on Github
-- 📫 How to reach me shaikfirdos786
+                                       Hello, I'm Shaik Firdos
+                          I'm a self taught python programmer and front-end web developer.My passion is Ethical Hacking.
 
 <!---
 shaikfirdos786/shaikfirdos786 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
