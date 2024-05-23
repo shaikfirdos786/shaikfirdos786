@@ -1,8 +1,7 @@
-![logo](https://github.com/shaikfirdos786/shaikfirdos786/blob/main/Github%20Banner0.jpeg)
 <h1 align="center">Hi 👋, I'm Shaik Firdos</h1>
 <h3 align="center">Aspiring Full Stack Developer | Passionate About Building Scalable Web Applications</h3>
 
-<img align="right" alt="coding-gif" width="400" src="https://github.com/shaikfirdos786/shaikfirdos786/blob/main/hacker%20logo.gif" />
+<img align="right" alt="coding-gif" width="400" src="https://github.com/shaikfirdos786/shaikfirdos786/blob/main/animated%20coder.gif" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shaikfirdos786&label=Profile%20views&color=0e75b6&style=flat" alt="shaikfirdos786" /> </p>
 
