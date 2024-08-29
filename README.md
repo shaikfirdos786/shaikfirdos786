@@ -7,9 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/nawab4581" target="blank"><img src="https://img.shields.io/twitter/follow/nawab4581?logo=twitter&style=for-the-badge" alt="nawab4581" /></a> </p>
 
-- 🔭 I’m currently working on Student Results Portal for our College. **AV Results Portal**
-
-- 🌱 I’m currently learning **React.js, Next.js, MongoDB, and TypeScript**
+- 🌱 I’m currently learning **Next.js, and TypeScript**
 
 - 👯 I’m looking to collaborate on **Open-source projects, innovative web applications, and any exciting projects in full stack development.**
 
