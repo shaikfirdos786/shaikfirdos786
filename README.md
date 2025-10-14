@@ -13,7 +13,7 @@
 I'm **Shaik Firdos**, an aspiring **Data Analyst** with a strong foundation in **Full Stack Web Development**.  
 I combine my coding background with analytical thinking to transform raw data into meaningful insights and business value.  
 
-- 🌱 I’m currently learning **Power BI, SQL Optimization, and Advanced Excel**
+- 🌱 Currently learning **Power BI, SQL Optimization, and Advanced Excel**
 - 👨‍💻 All of my projects are available at [My GitHub Repositories](https://github.com/shaikfirdos786?tab=repositories)
 - 💡 Interested in **Data Analytics, Dashboards, and Automation**
 - 📫 Reach me at **fidduraza9876@gmail.com**
@@ -37,18 +37,18 @@ I combine my coding background with analytical thinking to transform raw data in
 </p>
 
 **Notable Projects:**
-- **AV Results Portal for AV College** — Full-stack results management system using Node.js, Express, PostgreSQL, and EJS.
-- **Mortgage Calculator** — Built with React and Tailwind CSS for real-time financial calculations.
+- 🏫 **AV Results Portal for AV College** — Full-stack results management system using Node.js, Express, PostgreSQL, and EJS.
+- 🏠 **Mortgage Calculator** — Built with React and Tailwind CSS for real-time financial calculations.
 
 ---
 
 ## 📊 Present: Data Analyst
-**Current Focus Areas:**
-- Data Cleaning and Transformation  
+**Core Skills:**
+- Data Cleaning & Transformation  
 - Dashboard Design (Power BI, Tableau)  
 - SQL Query Optimization  
-- Data Visualization and Storytelling  
-- Excel Automation  
+- Exploratory Data Analysis (EDA)  
+- Data Visualization & Storytelling  
 
 **Tools & Technologies:**
 <p align="left"> 
@@ -62,10 +62,26 @@ I combine my coding background with analytical thinking to transform raw data in
 <a href="https://www.microsoft.com/en/microsoft-365/excel" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/excel/excel-original.svg" alt="excel" width="40" height="40"/> </a>
 </p>
 
-**Example Work:**
-- 🧠 **UFC Data Analysis Dashboard** — Built in Power BI using multiple datasets and DAX measures  
-- 📈 **E-commerce Insights (Brazilian Dataset)** — Cleaned, modeled, and visualized real-world sales data  
-- 🗂️ **Fighter Performance Analysis** — Statistical analysis using Python (pandas, matplotlib, seaborn)
+---
+
+### 📂 Featured Data Analytics Projects
+
+📊 **Zomato Data Analytics Dashboard**  
+- Analyzed restaurant data to uncover insights on customer preferences, ratings, and location trends.  
+- Tools: Power BI, SQL, Excel  
+- [🔗 View Project](https://github.com/shaikfirdos786/Zomato-Analytics)
+
+💸 **Kickstarter Crowdfunding Analysis**  
+- Studied campaign success factors using Power BI and DAX measures.  
+- Delivered visual insights on funding trends by category and region.  
+- Tools: Power BI, Excel  
+- [🔗 View Project](https://github.com/shaikfirdos786/Kickstarter-Crowdfunding-Analysis)
+
+🛒 **Brazilian E-Commerce Insights**  
+- Cleaned and modeled real-world sales data from Olist using Power BI.  
+- Designed interactive dashboards for customer segmentation and delivery performance.  
+- Dataset: [Kaggle Olist Dataset](https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce)  
+- [🔗 View Project](https://github.com/shaikfirdos786/Brazilian-Ecommerce-Insights)
 
 ---
 
