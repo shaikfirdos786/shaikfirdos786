@@ -17,7 +17,7 @@ I work with large datasets (10K–365K+ rows) and build business-impact dashboar
 - 🏢 Currently interning at **Ai Variant** — building 12+ dashboards across Power BI & Tableau  
 - 🔍 Focused on **KPI design, DAX modelling, ETL pipelines, and data storytelling**  
 - 🧱 Background in **React, Node.js, PostgreSQL** — I think in systems and data structures  
-- 📫 Reach me at **<a href="/cdn-cgi/l/email-protection" class="__cf_email__" data-cfemail="b5d3dcc7d1dac6c6ddd4dcde81808d84f5d2d8d4dcd99bd6dad8">[email&#160;protected]</a>**  
+- 📫 Reach me at **firdosshaik4581@gmail.com**  
 - ⚡ Fun fact: *I still debug SQL queries like I debug JavaScript* 😎
 
 ---
@@ -89,7 +89,7 @@ Before pivoting to data, I built production web apps end-to-end.
 <a href="https://www.linkedin.com/in/firdos-shaik-551b4222b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40"/></a>
 <a href="https://x.com/Nawab4581" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="X" height="30" width="40"/></a>
 <a href="https://www.instagram.com/shaikfirdosraza/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40"/></a>
-<a href="/cdn-cgi/l/email-protection#96f0ffe4f2f9e5e5fef7fffda2a3aea7d6f1fbf7fffab8f5f9fb"><img align="center" src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="Email" height="30" width="30"/></a>
+<a href="mailto:firdosshaik4581@gmail.com"><img align="center" src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="Email" height="30" width="30"/></a>
 </p>
 
 ---
